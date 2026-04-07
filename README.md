@@ -1,4 +1,4 @@
 # apnacollege-demo
 this is my first git repository
 <br>
-i am the author MD RAIYAN
+i am the author MD RAIYAN(JIS UNIVERSITY)
